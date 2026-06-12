@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.txt-class{
+    background-color: rgb(222, 153, 164);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.big-fsz{
+    font-size: 24px;
+}
+
+#id-num-1{
+    color: rgb(57, 57, 232);
+    font-size: 36px;
+}
+
+#id-num-2{
+    background-color: rgb(102, 240, 102);
+    font-size: 24px;
+    font-weight: bold;
+}
